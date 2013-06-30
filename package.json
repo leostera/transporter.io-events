@@ -1,0 +1,26 @@
+{
+  "name": "dispatcher.io-events",
+  "version": "0.0.0",
+  "description": "events transport for dispatcher.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leostera/dispatcher.io-events.git"
+  },
+  "keywords": [
+    "events",
+    "transport",
+    "dispatcher.io"
+  ],
+  "author": "Leandro Ostera <sayhi@leostera.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leostera/dispatcher.io-events/issues"
+  },
+  "dependencies": {
+    "eventemitter2": "~0.4.12"
+  }
+}
